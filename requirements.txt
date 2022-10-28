@@ -1,0 +1,4 @@
+Pillow
+instagrapi
+fastapi
+uvicorn
